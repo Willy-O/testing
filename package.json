@@ -1,0 +1,24 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "proof about tests with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willy-O/testing.git"
+  },
+  "keywords": [
+    "test",
+    "JavaScript",
+    "jest"
+  ],
+  "author": "Willy-o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Willy-O/testing/issues"
+  },
+  "homepage": "https://github.com/Willy-O/testing#readme"
+}
